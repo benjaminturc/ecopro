@@ -1,0 +1,6 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+  "event": "contact_form"
+});
+</script>
